@@ -1,2 +1,2 @@
-# my-desgins
+# my-designs
 mobile apps task
